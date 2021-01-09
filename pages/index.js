@@ -16,7 +16,7 @@ export default function Home() {
 
         <div className={styles.grid}>
           <Link href="/dashboard">
-            poo
+            poo poo
           </Link>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
